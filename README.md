@@ -1,2 +1,2 @@
 # PrototipoLogin-Nomia
-Protótipo do sistema para Login de usuários no site Nomia, utilizando DotNet e SQLite.
+Protótipo do sistema de Login de usuários para o site Nomia utilizando dotNet e SQLite
